@@ -56,6 +56,16 @@
 
 <hr>
 
+<div>
+
+<h2> GitHub Stats </h2>
+
+[![](https://github-readme-stats.vercel.app/api?username=Emmanuel-1505&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Emmanuel-1505)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-1505&theme=material-palenight)](https://github.com/Emmanuel-1505)
+</div>
+
+<hr>
+
 <h1>
   Connect With Me
   <a target="_blank">
@@ -64,6 +74,5 @@
 </h1>
 
 <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/ferdi.ozer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.youtube.com/@Anima_dev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/emmanuel-hernández-jiménez-21195b2bb"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
